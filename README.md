@@ -14,7 +14,7 @@ Each `UICollectionViewCell` should have:
 - the name of the element
 - the atomic mass of the element
 
-Try to lay out these cells in a similar format to what one sees when looking at the periodic table.
+Try to lay out each of these cells in a similar format to what one sees when looking at an element in the periodic table.
 
 ![table](https://www.sigmaaldrich.com/content/dam/sigma-aldrich/articles/biology/marketing-assets/periodic-table-elements-small.png)
 
