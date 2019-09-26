@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A7FCF46233CFE1C00180DD2 /* ElementCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7FCF45233CFE1C00180DD2 /* ElementCollectionViewCell.swift */; };
 		54228C22233CF5E700427662 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54228C21233CF5E700427662 /* AppDelegate.swift */; };
 		54228C24233CF5E700427662 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54228C23233CF5E700427662 /* ViewController.swift */; };
 		54228C27233CF5E700427662 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54228C25233CF5E700427662 /* Main.storyboard */; };
@@ -31,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3A7FCF45233CFE1C00180DD2 /* ElementCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementCollectionViewCell.swift; sourceTree = "<group>"; };
 		54228C1E233CF5E700427662 /* collection-views.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "collection-views.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54228C21233CF5E700427662 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54228C23233CF5E700427662 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 			isa = PBXGroup;
 			children = (
 				54228C23233CF5E700427662 /* ViewController.swift */,
+				3A7FCF45233CFE1C00180DD2 /* ElementCollectionViewCell.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				54228C4B233CF98F00427662 /* NetworkHelper.swift in Sources */,
 				54228C45233CF92B00427662 /* ElementAPIClient.swift in Sources */,
 				54228C24233CF5E700427662 /* ViewController.swift in Sources */,
+				3A7FCF46233CFE1C00180DD2 /* ElementCollectionViewCell.swift in Sources */,
 				54228C47233CF95700427662 /* AppError.swift in Sources */,
 				54228C22233CF5E700427662 /* AppDelegate.swift in Sources */,
 				54228C43233CF8E500427662 /* Element.swift in Sources */,
